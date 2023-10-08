@@ -20,13 +20,10 @@
 
 
 <ul>
-<li>Html</li>
-<li>Css</li>
-<li>JavaScript</li>
+<li>Html5</li>
+<li>Css3</li>
+<li>Sass Development</li>
 <li>Bootstrap</li>
-<li>Jquery</li>
-<li>Saas</li>
-<li>Node.js</li>
 </ul>  
 
 <br/>
